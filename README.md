@@ -1,4 +1,4 @@
-# Exercices de base en JavaScript
+# Faire une page interactive avec JS
 
 [![forthebadge](https://raw.githubusercontent.com/fleopaulD/README-parts/main/Badges/ftb-the-hacking-project.svg)](https://forthebadge.com)
 
